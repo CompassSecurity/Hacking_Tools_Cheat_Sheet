@@ -7,7 +7,11 @@ https://blog.compass-security.com/2019/10/hacking-tools-cheat-sheet/
 
 # Download
 
-PDF: [hacking_tools_cheat_sheet_v1.0.pdf](https://github.com/CompassSecurity/Hacking_Tools_Cheat_Sheet/raw/master/hacking_tools_cheat_sheet_v1.0.pdf)
+## PDF
+
+Download: [hacking_tools_cheat_sheet_v1.0.pdf](https://github.com/CompassSecurity/Hacking_Tools_Cheat_Sheet/raw/master/hacking_tools_cheat_sheet_v1.0.pdf)
+
+## Images
 
 Image Page 1:
 
