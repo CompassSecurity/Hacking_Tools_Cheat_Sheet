@@ -13,14 +13,14 @@ Download: [hacking_tools_cheat_sheet_v2.0.pdf](https://github.com/CompassSecurit
 
 ### Images
 
-Image Page 1:
+Page 1:
 
 ![Hacking Tools Cheat Sheet Page 1](https://raw.githubusercontent.com/CompassSecurity/Hacking_Tools_Cheat_Sheet/master/hacking_tools_cheat_sheet_v2.0-0.png)
 
-Image Page 2:
+Page 2:
 
 ![Hacking Tools Cheat Sheet Page 2](https://raw.githubusercontent.com/CompassSecurity/Hacking_Tools_Cheat_Sheet/master/hacking_tools_cheat_sheet_v2.0-1.png)
 
-Image Page 3:
+Page 3:
 
 ![Hacking Tools Cheat Sheet Page 2](https://raw.githubusercontent.com/CompassSecurity/Hacking_Tools_Cheat_Sheet/master/hacking_tools_cheat_sheet_v2.0-2.png)
