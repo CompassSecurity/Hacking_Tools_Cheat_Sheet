@@ -2,8 +2,29 @@
 
 ## Blog
 
-See our blog post for more information:
+**See our blog post for more information:** <br>
 https://blog.compass-security.com/2019/10/hacking-tools-cheat-sheet/
+
+**Topics covered:**
+- Basic Linux Networking Tools (ip, dig)
+- Information Gathering (whois, CT logs, subdomain enumeration)
+- TCP Tools (ncat)
+- TLS Tools (openssl, ncat, sslyze, socat)
+- HTTP Tools (python webserver, curl, nikto, gobuster)
+- Sniffing (ARP spoofing, tcpdump, Wireshark, …)
+- Network Scanning (nmap, masscan)
+- Shells (Bind/reverse shells)
+- Vulnerability DBs and Exploits (searchsploit and some links)
+- Cracking (ncrack, hashcat, John the Ripper)
+- Metasploit Framework (Use exploits, generate shells, shell listeners, meterpreter, pivoting, SOCKS proxying)
+- Linux Privilege Escalation (LinEnum, lynis, GTFOBins)
+- Windows Privilege Escalation (PowerSploit, smbmap)
+- Windows Credentials Gathering (mimikatz, lsadump)
+- Passh-The-Hash (Lots of impacket tools)
+- NTLM Relay (ntlmrelayx, SOCKS proxying)
+- Active Directory (BloodHound & PingCastle)
+- Online References
+
 
 ## Download
 
