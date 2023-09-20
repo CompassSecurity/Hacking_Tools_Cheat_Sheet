@@ -2,10 +2,10 @@
 
 ## Blog
 
-**See our blog post for more information:** <br>
+See our blog post for more information: <br>
 https://blog.compass-security.com/2019/10/hacking-tools-cheat-sheet/
 
-**Topics covered:**
+The cheat sheet contains:
 - Basic Linux Networking Tools (ip, dig)
 - Information Gathering (whois, CT logs, subdomain enumeration)
 - TCP Tools (ncat)
@@ -24,7 +24,6 @@ https://blog.compass-security.com/2019/10/hacking-tools-cheat-sheet/
 - NTLM Relay (ntlmrelayx, SOCKS proxying)
 - Active Directory (BloodHound & PingCastle)
 - Online References
-
 
 ## Download
 
